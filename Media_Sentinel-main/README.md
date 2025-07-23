@@ -65,13 +65,6 @@ Make sure you have the following installed on your machine:
 - [Git](https://git-scm.com/)
 - [pip](https://pip.pypa.io/en/stable/installation/) (Python Package Installer)
 
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/Suhasgowda7104/MEDIA-SENTINAL.git
-cd media-sentinel
-```
-
 **Installation**
 
 Create a virtual environment and install the project dependencies:
